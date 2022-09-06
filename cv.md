@@ -53,3 +53,8 @@ function createPhoneNumber(numbers){
 - Kazakh
 ## English 
 -  The level of English is elementary.
+
+<br>
+<br>
+
+[<img align="center" alt="rsschool" width="100px"  src="img/rs_school_js.svg" />](https://rs.school/) 
